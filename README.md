@@ -1,4 +1,4 @@
-# Attack Database
+# Threat Intelligence Database
 ## Project Overview
 - This project simulates a cybersecurity threat intelligence database designed to analyze network attack traffic and security alerts.
 - The system ingests structured attack log data and generates analytical insights to support Security Operations Center (SOC) monitoring and incident response.
